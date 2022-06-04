@@ -1,11 +1,15 @@
 
-<img  src="./1578306208273.jpg" width="100%">
-<h1>Hi, I'm Nico Schaefer</h1>
+<div style="position: relative;">
+<img src="./1578306208273.jpg" width="100%">
+ <div style="position:absolute">
+  <h1>Hi, I'm Nico Schaefer</h1>
 
 I'm a **Javascript Fullstack Engineer** living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
+</div>
+</div>
 
 ## Skill Set :muscle:
 
