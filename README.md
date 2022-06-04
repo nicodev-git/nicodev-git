@@ -1,5 +1,6 @@
 
-<h1>Hi, I'm Nico Schaefer <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img  src="./1578306208273.jpg" width="100%">
+<h1>Hi, I'm Nico Schaefer</h1>
 
 I'm a **Javascript Fullstack Engineer** working at [Peak](https://peak.ai/).
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
