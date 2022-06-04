@@ -1,7 +1,7 @@
 
-<h1>Hi There, I'm Nico Schaefer <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm Nico Schaefer <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Javascript Fullstack Engineer** working at [Peak](https://peak.ai/). Since graduating college 7 years ago, I decided to go into software engineering, particularly web development, full-stack development, and mobile development.
+I'm a **Javascript Fullstack Engineer** working at [Peak](https://peak.ai/).
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
