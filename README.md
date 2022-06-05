@@ -1,5 +1,5 @@
 
-<img src="./1578306208273.jpg" width="50%" align="right">
+<img src="./tutzing.png" width="50%" align="right">
 <h1>Hi, I'm Nico Schaefer</h1>
 I'm a Javascript Fullstack Engineer living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
