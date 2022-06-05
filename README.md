@@ -1,6 +1,6 @@
 
 <img src="./tutzing.png" width="50%" align="right">
-<h1>Hi, I'm Nico Schaefer</h1>
+<h1>Hi, I'm Nico S.</h1>
 I'm a Javascript Fullstack Engineer living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
