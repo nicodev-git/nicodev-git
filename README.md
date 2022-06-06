@@ -20,7 +20,7 @@ I am more than willing to go the extra mile to make sure I can help the client t
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="55%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="40%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="40%"/>
 </p>
 <br/>
 
