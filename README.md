@@ -15,6 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="43%"/>
 </p>
+<hr/>
 
 ### - About Me 👨‍🦱 
   
@@ -22,6 +23,7 @@ I'm <a href="https://nico-schaefer.netlify.app" target="_blank">Nico S.</a>, a J
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
+<br/>
 <br/>
 
 ### - Skill Set 💪 
@@ -51,6 +53,6 @@ I am more than willing to go the extra mile to make sure I can help the client t
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
-
+<br/>
 ### - Here is a humor to make your day better 😆
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
