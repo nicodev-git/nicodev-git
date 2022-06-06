@@ -3,8 +3,7 @@
 <h1>Hi there 👋</h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
-- ⏲️ I work full/part time in CET/EST timezone.
-- 🆓 I am working as a freelancer on Upwork.
+- 🆓 I work full/part time in CET/EST timezone.
 - ⚡ I am specializing in Full-stack web development.
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
 <hr/>
