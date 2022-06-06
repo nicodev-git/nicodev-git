@@ -54,4 +54,4 @@ I am more than willing to go the extra mile to make sure I can help the client t
 
 
 ## - Here is a humor to make your day better 😆
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
