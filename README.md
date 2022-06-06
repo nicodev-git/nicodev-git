@@ -7,6 +7,7 @@
 - ⚡ I am specializing in Full-stack web development
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
 <br/>
+<br/>
 
 ### 👨‍🦱 About Me 
   
