@@ -1,6 +1,6 @@
 
 <img src="./tutzing.png" width="50%" align="right">
-<h1>Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" width="50" height="auto" /></h1>
+<h1>Hi there <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/></h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
 - 🆓 I work full/part time in CET/EST timezone.
