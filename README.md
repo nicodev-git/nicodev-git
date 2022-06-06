@@ -6,17 +6,15 @@
 - ⏲️ I work full/part time in CET/EST timezone.
 - ⚡ I am specializing in Full-stack web development
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
+<br/>
 
-
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
+### About Me 👨‍🦱
+  
 I'm Nico, a Javascript Fullstack Engineer living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
-</details> 
+<br/>
 
 ### Skill Set 💪
   
@@ -47,7 +45,7 @@ I am more than willing to go the extra mile to make sure I can help the client t
 |--|--|--|--|--|
 <br/>
 
-### Enjoy a random meme to make your day better
-(*Try to refresh the page to see a new meme* 🤭)
+### Enjoy a random meme to make your day better 🤭
+(*Try to refresh the page to see a new meme*)
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
