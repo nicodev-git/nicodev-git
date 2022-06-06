@@ -17,9 +17,8 @@ I am more than willing to go the extra mile to make sure I can help the client t
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-<br/>
-<br/>
 
 ### - Skill Set 💪 
   
