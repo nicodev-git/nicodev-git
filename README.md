@@ -21,6 +21,10 @@ I am more than willing to go the extra mile to make sure I can help the client t
 </p>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
