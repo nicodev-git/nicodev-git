@@ -15,7 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="43%"/>
 </p>
-<hr/>
 
 ## - About Me 👨‍🦱 
   
@@ -23,7 +22,6 @@ I'm <a href="https://nico-schaefer.netlify.app" target="_blank">Nico S.</a>, a J
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
-<br/>
 <br/>
 
 ## - Skill Set 💪 
