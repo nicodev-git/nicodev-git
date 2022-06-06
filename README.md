@@ -50,4 +50,4 @@ I am more than willing to go the extra mile to make sure I can help the client t
 ### - Enjoy a random meme to make your day better 🤭  
 (*Try to refresh the page to see a new meme*)
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://random-memer.herokuapp.com"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
