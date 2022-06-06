@@ -7,7 +7,7 @@
 - 🆓 I am working as a freelancer on Upwork.
 - ⚡ I am specializing in Full-stack web development.
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
-<br/>
+<hr/>
 
 ### - About Me 👨‍🦱 
   
@@ -46,8 +46,3 @@ I am more than willing to go the extra mile to make sure I can help the client t
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br/>
-
-### - Enjoy a random meme to make your day better 🤭  
-(*Try to refresh the page to see a new meme*)
-
-<a href="https://random-memer.herokuapp.com"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
