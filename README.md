@@ -1,6 +1,6 @@
 
 <img src="./tutzing.png" width="50%" align="right">
-<h1>Hi there <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/></h1>
+<h1>Hi there 👋</h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
 - 🆓 I work full/part time in CET/EST timezone.
@@ -17,6 +17,7 @@ I am more than willing to go the extra mile to make sure I can help the client t
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
