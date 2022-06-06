@@ -1,6 +1,6 @@
 
 <img src="./tutzing.png" width="50%" align="right">
-<h1>Hi there 👋</h1>
+<h1>Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" width="50" height="auto" /></h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
 - 🆓 I work full/part time in CET/EST timezone.
@@ -15,8 +15,13 @@ In the last 5 years, I am committed to the development of web-based solutions, c
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
 <br/>
 
 
@@ -47,7 +52,6 @@ I am more than willing to go the extra mile to make sure I can help the client t
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
-<br/>
 
 ### - Here is a humor to make your day better 😆
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
