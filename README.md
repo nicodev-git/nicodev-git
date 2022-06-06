@@ -8,6 +8,9 @@
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
 <hr/>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### - About Me 👨‍🦱 
   
 I'm <a href="https://nico-schaefer.netlify.app" target="_blank">Nico S.</a>, a Javascript Fullstack Engineer living in Tutzing, Germany.
