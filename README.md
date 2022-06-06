@@ -15,12 +15,9 @@ In the last 5 years, I am committed to the development of web-based solutions, c
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 <br/>
 
