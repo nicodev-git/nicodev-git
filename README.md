@@ -19,8 +19,8 @@ I am more than willing to go the extra mile to make sure I can help the client t
 <img src="https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&margin-h=50&no-bg=true">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="50%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="43%"/>
 </p>
 <br/>
 
