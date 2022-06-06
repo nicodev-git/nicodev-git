@@ -8,7 +8,7 @@
 - 💬 Feel free to contact me by email at [schaefernicker@gmail.com](mailto:schaefernicker@gmail.com).
 <br/>
 
-### About Me 👨‍🦱
+### 👨‍🦱 About Me 
   
 I'm Nico, a Javascript Fullstack Engineer living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
@@ -16,7 +16,8 @@ Nowadays, I don't consider myself to be just a developer, I consider myself to b
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
 <br/>
 
-### Skill Set 💪
+
+### 💪 Skill Set 
   
 **Programming Languages**
 
@@ -45,7 +46,7 @@ I am more than willing to go the extra mile to make sure I can help the client t
 |--|--|--|--|--|
 <br/>
 
-### Enjoy a random meme to make your day better 🤭
+### 🤭 Enjoy a random meme to make your day better 
 (*Try to refresh the page to see a new meme*)
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
