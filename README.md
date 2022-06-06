@@ -16,16 +16,15 @@ Nowadays, I don't consider myself to be just a developer, I consider myself to b
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical" width="45%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&theme=radical" width="48%" align="left" height="10%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="48%" align="right" height="10%"/>
 </p>
+<br/>
 <br/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nicodev-git&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
-  
 <br/>
-
 
 ### - Skill Set 💪 
   
