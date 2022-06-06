@@ -17,7 +17,7 @@
 </p>
 <hr/>
 
-### - About Me 👨‍🦱 
+## - About Me 👨‍🦱 
   
 I'm <a href="https://nico-schaefer.netlify.app" target="_blank">Nico S.</a>, a Javascript Fullstack Engineer living in Tutzing, Germany.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
